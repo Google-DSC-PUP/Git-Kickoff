@@ -1,0 +1,52 @@
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  check:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Check for non markdown
+        id: check
+        run: find . -not -name "*.md" -not -name "LICENSE" -not -type d -not -path './.git/*' -not -path './.github/*'
+  
+      - name: Judge
+        if: ${{ steps.check.outputs.stdout }}
+        uses: actions/github-script@v3
+        with:
+          script: |
+            core.setFailed('Non markdown files found!')
+  
+      - name: Check
+        id: changed-files-specific
+        uses: tj-actions/changed-files@v34
+        with:
+          files: |
+            README.md
+            LICENSE
+            .github/**
+            
+      - name: Run step if any file(s) in the docs folder change
+        if: steps.changed-files-specific.outputs.any_changed == 'true'
+        uses: actions/github-script@v3
+        with:
+          script: |
+            core.setFailed('A forbidden file has been changed!')

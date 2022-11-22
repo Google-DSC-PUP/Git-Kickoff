@@ -1,5 +1,0 @@
-correct:
-- any: ['contributor.md', '!README.md', '!*/.github/*', 'WebDevelopment/*', '!LICENSE', '!template.md']
-
-incorrect:
-- any: ['README.md', '*/.github/*', 'LICENSE', 'template.md']
