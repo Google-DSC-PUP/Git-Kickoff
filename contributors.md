@@ -4,4 +4,4 @@
 
 | Name                   | GitHub Username                                                             |
 |------------------------|-----------------------------------------------------------------------------|
-| Jirro Reoloso          | JirroReo                                                                    |
+| Jirro Dave Reoloso     | JirroReo                                                                    |
