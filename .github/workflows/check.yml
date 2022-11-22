@@ -49,6 +49,7 @@ jobs:
 
       - name: Run step if any file(s) in the docs folder change
         if: steps.changed-files-specific.outputs.any_changed == 'true'
+        uses: actions/github-script@v3
         with:
           script: |
             core.setFailed('A forbidden file has been changed!')
