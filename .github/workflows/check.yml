@@ -50,5 +50,3 @@ jobs:
         with:
           script: |
             core.setFailed('A forbidden file has been changed!')
-            echo "A forbidden file has been changed!"
-            echo "List all the files that have changed: ${{ steps.changed-files-specific.outputs.all_changed_files }}"
