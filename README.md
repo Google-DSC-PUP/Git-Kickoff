@@ -11,7 +11,7 @@ Simply follow the instructions below and go along with the presenter! Don't hesi
 Good luck! You got this! :muscle:
 
 #### Instructions
-* Clone the repository onto your local machine using `git clone `
+* Clone the repository onto your local machine using `git clone git@github.com:Google-Developer-Student-Clubs-PUP-Main/Git-Kickoff.git`
 * On your copy of the repository, make a new branch using `git checkout -b documentation-yourname`
 * Copy the `template.md` file as `LastName, FirstName.md`
 * Edit the to include some information about you and answer some questions to get us to know you more!
@@ -24,9 +24,9 @@ Good luck! You got this! :muscle:
 * Time to commit! Use `git commit -m <message here>` and add a meaningful message.
   * Meaningful commit messages help other devs understand what your code does.
   * Meaningful commit messages are like:
-    * `Improved documentation when it comes to records`
-    * `Optimized account api queries by eliminating redundancies`
-    * `Changed SignUp.html and added input sanitation`
+    * `Improved documentation`
+    * `Optimized account api queries`
+    * `Changed SignUp.html`
   * Commit messages you should **not** put:
     * `fixed stuff`
     * `dvhgvfbkjvhbefg`
