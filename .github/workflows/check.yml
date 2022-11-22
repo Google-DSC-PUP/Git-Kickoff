@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Check for non markdown
         id: check
-        run: find . -not -name "*.md" -not -name "LICENSE" -not -type d -not -path './.git/*'
+        run: find . -not -name "*.md" -not -name "LICENSE" -not -type d -not -path './.git/*' -not -path './.github/*'
   
       - name: Judge
         if: ${{ steps.check.outputs.stdout }} !== ""
