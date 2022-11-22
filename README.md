@@ -11,7 +11,7 @@ Simply follow the instructions below and go along with the presenter! Don't hesi
 Good luck! You got this! :muscle:
 
 #### Instructions
-* Fork the repository onto your local machine using GitHub's `Fork` button on the upper-right.
+* Clone the repository onto your local machine using `git clone `
 * On your copy of the repository, make a new branch using `git checkout -b documentation-yourname`
 * Copy the `template.md` file as `LastName, FirstName.md`
 * Edit the to include some information about you and answer some questions to get us to know you more!
