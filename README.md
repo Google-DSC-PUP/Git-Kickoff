@@ -33,6 +33,7 @@ Good luck! You got this! :muscle:
     * `hehe`
 * Push it to the repository by running `git push origin HEAD`
 * The CLI will display a link, click it and open a pull request or a *PR*.
+* On the pull request page, set at least 1 assignee on the right panel, you can pick both/either `JirroReo` or `Karmotrine`.
 * If you did everything correctly, your PR will be approved and you will be classified as a contributor in GDSC PUP's GitHub!
 
 [^1]: [Atlassian: what is git?](https://www.atlassian.com/git/tutorials/what-is-git)
