@@ -1,6 +1,6 @@
 ## :confetti_ball: GDSC PUP Web Dev Git Kickoff Session :confetti_ball:
 
-### Welcome! :rocket:
+### Welcome! :roct:
 
 git is by far, the most widely used modern version control system in the world today, it eliminates having to pass flash drives or files with ridiculous names
 to avoid version conflicts such as `thesis_proposal_final_final_FINAL(1).pdf`. [^1]
