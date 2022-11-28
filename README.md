@@ -11,7 +11,7 @@ Simply follow the instructions below and go along with the presenter! Don't hesi
 Good luck! You got this! :muscle:
 
 #### Instructions
-* Clone the repository onto your local machine using `git clone git@github.com:Google-Developer-Student-Clubs-PUP-Main/Git-Kickoff.git`
+* Fork the repository using GitHub's fork button on the upper right.
 * On your copy of the repository, make a new branch using `git checkout -b documentation-yourname`
 * Copy the `template.md` file as `LastName, FirstName.md`
 * Edit the to include some information about you and answer some questions to get us to know you more!
@@ -20,7 +20,8 @@ Good luck! You got this! :muscle:
   * Team
   * ~Credit Card Information~
 * After answering, move the file inside the `WebDevelopment` folder.
-* Stage it by using `git add LastName, FirstName.md`
+* Add your name and GitHub username in `contributors.md`.
+* Stage the files by using `git add "LastName, FirstName.md" contributors.md`
 * Time to commit! Use `git commit -m <message here>` and add a meaningful message.
   * Meaningful commit messages help other devs understand what your code does.
   * Meaningful commit messages are like:
@@ -34,7 +35,6 @@ Good luck! You got this! :muscle:
 * Push it to the repository by running `git push origin HEAD`
 * The CLI will display a link, click it and open a pull request or a *PR*.
 * On the pull request page, set at least 1 `reviewer` on the right panel, you can pick both/either `JirroReo` or `Karmotrine`.
-* Add your name and GitHub username in `contributors.md`.
 * If you did everything correctly, your PR will be approved and you will be classified as a contributor in GDSC PUP's GitHub!
 
 [^1]: [Atlassian: what is git?](https://www.atlassian.com/git/tutorials/what-is-git)
