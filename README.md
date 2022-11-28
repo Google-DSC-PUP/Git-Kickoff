@@ -33,7 +33,7 @@ Good luck! You got this! :muscle:
     * `dvhgvfbkjvhbefg`
     * `hehe`
 * Push it to the repository by running `git push origin HEAD`
-* The CLI will display a link, click it and open a pull request or a *PR*.
+* On your browser, open your copy of the repository and press `contribute` and proceed with making a pull request or a *PR*.
 * On the pull request page, set at least 1 `reviewer` on the right panel, you can pick both/either `JirroReo` or `Karmotrine`.
 * If you did everything correctly, your PR will be approved and you will be classified as a contributor in GDSC PUP's GitHub!
 
