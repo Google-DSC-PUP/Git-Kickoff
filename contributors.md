@@ -2,7 +2,8 @@
 
 #### Web Development
 
-| Name                   | GitHub Username                                                             |
-|------------------------|-----------------------------------------------------------------------------|
-| Jirro Dave Reoloso     | JirroReo                                                                    |
-| Yuan Ragile Ureña      | Karmotrine                                                                  |
+| Name                     | GitHub Username |
+| ------------------------ | --------------- |
+| Jirro Dave Reoloso       | JirroReo        |
+| Yuan Ragile Ureña        | Karmotrine      |
+| Bernard Andrew De Guzman | theadg          |
