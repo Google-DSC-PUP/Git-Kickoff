@@ -7,3 +7,4 @@
 | Jirro Dave Reoloso     | JirroReo                                                                    |
 | Yuan Ragile Ureña      | Karmotrine                                                                  |
 | Erika Montevirgen      | eagmn                                                                       |
+| Kinni Yya Lopez        | kinni-yya                                                                   |
