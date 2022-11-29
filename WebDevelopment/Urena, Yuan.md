@@ -9,7 +9,7 @@
 -------
 
 ### If you can recall, what was the first website you've ever visited? Does it still exist? If so, how did it look back then? Has it changed nowadays?
-- frendster.com, nope its a defunct site by now.
+- clubpenguin.com, nope its a defunct site by now.
 
 ### Describe the website you want to build someday
 - the next facebook(TM)
