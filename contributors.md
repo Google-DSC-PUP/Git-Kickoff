@@ -6,3 +6,4 @@
 |------------------------|-----------------------------------------------------------------------------|
 | Jirro Dave Reoloso     | JirroReo                                                                    |
 | Yuan Ragile Ureña      | Karmotrine                                                                  |
+| Therese Angel Saavedra | ThereseAngel                                                                |
