@@ -10,3 +10,4 @@
 | Paul Kirk Espina       | Cirque0                                                                     |
 | Angelo Macapuno        | gelomacapuno                                                                |
 | Renz Anthony Rackhold  | zernrack                                                                    |
+| John Zachary Tecson    | zachhh14                                                                    |
