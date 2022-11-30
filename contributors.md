@@ -11,3 +11,4 @@
 | Angelo Macapuno        | gelomacapuno                                                                |
 | Renz Anthony Rackhold  | zernrack                                                                    |
 | John Zachary Tecson    | zachhh14                                                                    |
+| Bernard Andrew De Guzman | theadg                                                                     |
