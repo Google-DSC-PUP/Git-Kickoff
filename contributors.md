@@ -13,3 +13,4 @@
 | John Zachary Tecson    | zachhh14                                                                    |
 | Bernard Andrew De Guzman | theadg                                                                     |
 | Therese Angel Saavedra | ThereseAngel                                                                |
+| Kinni Yya Lopez        | kinni-yya                                                                   |
