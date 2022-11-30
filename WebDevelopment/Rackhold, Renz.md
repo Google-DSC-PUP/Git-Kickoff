@@ -2,20 +2,20 @@
 
 |                        | Member Information                                                          |
 |------------------------|-----------------------------------------------------------------------------|
-| Name                   | Yuan Ureña                                                                  |
-| Section                | BSCS 3-1                                                                    |
+| Name                   | Renz Rackhold                                                            |
+| Section                | DICT 3-2                                                                    |
 | Team                   | Web Development                                                             |
 
 -------
 
 ### If you can recall, what was the first website you've ever visited? Does it still exist? If so, how did it look back then? Has it changed nowadays?
-- clubpenguin.com, nope its a defunct site by now.
+- `youtube.com, yes it's still available for anyone`
 
 ### Describe the website you want to build someday
-- the next facebook(TM)
+- `I want to build a website wherein everyone can connect.`
 
 ### So far, do you have any companies that you are aspiring to work for? Why?
-- anything in FAANG
+- `Probably in FAANG, but who knows?`
 
 ### Anything you want the team to discuss in the future?
-- about react metaframeworks
+- `about backend`
