@@ -14,4 +14,3 @@
 | Bernard Andrew De Guzman | theadg                                                                     |
 | Therese Angel Saavedra | ThereseAngel                                                                |
 | Kinni Yya Lopez        | kinni-yya                                                                   |
-| Regienald Pueblos      | Hexial01                                                                    |
