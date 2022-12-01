@@ -6,3 +6,4 @@
 |------------------------|-----------------------------------------------------------------------------|
 | Jirro Dave Reoloso     | JirroReo                                                                    |
 | Yuan Ragile Ureña      | Karmotrine                                                                  |
+| Cara Elyssa Dulay      | carad16
