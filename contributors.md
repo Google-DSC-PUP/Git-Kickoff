@@ -11,7 +11,8 @@
 | Angelo Macapuno        | gelomacapuno                                                                |
 | Renz Anthony Rackhold  | zernrack                                                                    |
 | John Zachary Tecson    | zachhh14                                                                    |
-| Bernard Andrew De Guzman | theadg                                                                     |
+| Bernard Andrew De Guzman | theadg                                                                    |
 | Therese Angel Saavedra | ThereseAngel                                                                |
 | Kinni Yya Lopez        | kinni-yya                                                                   |
 | Regienald Pueblos      | Hexial01                                                                    |
+| Cara Elyssa Dulay      | carad16                                                                     |
