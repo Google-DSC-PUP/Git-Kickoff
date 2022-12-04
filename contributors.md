@@ -16,4 +16,5 @@
 | Kinni Yya Lopez        | kinni-yya                                                                   |
 | Regienald Pueblos      | Hexial01                                                                    |
 | Cara Elyssa Dulay      | carad16                                                                     |
-| Joseph Karl Crisostomo      | kathulhur                                                                     |
+| Joseph Karl Crisostomo | kathulhur                                                                   |
+| Khristine Sophia Serrano | khristinesophia                                                           |
