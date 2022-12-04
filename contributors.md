@@ -18,3 +18,4 @@
 | Cara Elyssa Dulay      | carad16                                                                     |
 | Joseph Karl Crisostomo | kathulhur                                                                   |
 | Khristine Sophia Serrano | khristinesophia                                                           |
+| Lalaine Lery Diok      | lalainediok                                                                 |
