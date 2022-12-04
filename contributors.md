@@ -16,4 +16,6 @@
 | Kinni Yya Lopez             | kinni-yya                                                                   |
 | Regienald Pueblos           | Hexial01                                                                    |
 | Cara Elyssa Dulay           | carad16                                                                     |
+| Joseph Karl Crisostomo      | kathulhur                                                                   |
+| Khristine Sophia Serrano    | khristinesophia                                                             |
 | Lord Miacky Keiji Plata     | KeijiPlata                                                                  |
