@@ -21,3 +21,4 @@
 | Lord Miacky Keiji Plata     | KeijiPlata                                                                  |
 | Miguel Carlos Gonzalez      | mglgnzlz                                                                    |
 | Lalaine Lery Diok           | lalainediok                                                                 |
+| Joseph Fernan Olivar        | CorvusOps                                                                   |
