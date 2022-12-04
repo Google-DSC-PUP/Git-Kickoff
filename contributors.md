@@ -20,3 +20,4 @@
 | Khristine Sophia Serrano    | khristinesophia                                                             |
 | Lord Miacky Keiji Plata     | KeijiPlata                                                                  |
 | Miguel Carlos Gonzalez      | mglgnzlz                                                                    |
+| Lalaine Lery Diok           | lalainediok                                                                 |
