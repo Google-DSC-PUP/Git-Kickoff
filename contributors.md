@@ -16,4 +16,4 @@
 | Kinni Yya Lopez             | kinni-yya                                                                   |
 | Regienald Pueblos           | Hexial01                                                                    |
 | Cara Elyssa Dulay           | carad16                                                                     |
-| Lord Miacky Keiji Plata     | carad16                                                                     |
+| Lord Miacky Keiji Plata     | KeijiPlata                                                                  |
